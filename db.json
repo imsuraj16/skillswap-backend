@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "id": "5-jpqEMXqdXs1FPM0kEey",
+      "name": "Suraj ",
+      "email": "sv6971525@gmail.com",
+      "password": "123456",
+      "bio": "Frontend developer at microsoft"
+    },
+    {
+      "id": "Qjd_v0mm87kFIhfrv2-W-",
+      "name": "rachit",
+      "email": "john.doe@email.com",
+      "password": "1234",
+      "bio": "backend developer at google"
+    },
+    {
+      "id": "uVohLMKmwblmw53AupEnw",
+      "name": "divyanshu",
+      "email": "admin@gmail.com",
+      "password": "Sur@jverma1",
+      "confirmPassword": "Sur@jverma1",
+      "bio": "ffasssvdsg dfdsg"
+    }
+  ],
+  "skills": [
+    {
+      "id": "5Mr4HXEyoWCmfvvfw-5pK",
+      "name": "react",
+      "category": "Frontend",
+      "description": "useful in ui",
+      "ownerId": "5-jpqEMXqdXs1FPM0kEey",
+      "username": "Suraj "
+    },
+    {
+      "id": "W6GeGJhVEhl4vk9jT7zr-",
+      "name": "javascript",
+      "category": "Frontend",
+      "description": "fprogramming language",
+      "ownerId": "Qjd_v0mm87kFIhfrv2-W-",
+      "username": "rachit"
+    },
+    {
+      "id": "5RM6aTCQGxdNpUZ1SIo1f",
+      "name": "nodejs",
+      "category": "Backend",
+      "description": "used in backend",
+      "ownerId": "Qjd_v0mm87kFIhfrv2-W-",
+      "username": "rachit"
+    },
+    {
+      "id": "N9LrZEMtefpCx2_a_v8hO",
+      "name": "mongodb",
+      "category": "Backend",
+      "description": "for storing data",
+      "ownerId": "Qjd_v0mm87kFIhfrv2-W-",
+      "username": "rachit"
+    }
+  ],
+  "requests": []
+}
